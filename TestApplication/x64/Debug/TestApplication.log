@@ -1,0 +1,3 @@
+﻿  main.cpp
+systemclass.obj : error LNK2019: unresolved external symbol "private: void __cdecl SystemClass::ShutdownWindows(void)" (?ShutdownWindows@SystemClass@@AEAAXXZ) referenced in function "public: void __cdecl SystemClass::Shutdown(void)" (?Shutdown@SystemClass@@QEAAXXZ)
+E:\code practice\TestApplication\x64\Debug\TestApplication.exe : fatal error LNK1120: 1 unresolved externals
